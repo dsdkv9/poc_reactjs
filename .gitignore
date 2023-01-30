@@ -1,0 +1,10 @@
+poc_reactjs_bank/node_modules
+poc_reactjs_bank/.pnp
+poc_reactjs_bank/.pnp.js
+
+# testing
+poc_reactjs_bank/coverage
+
+# production
+poc_reactjs_bank/build
+
