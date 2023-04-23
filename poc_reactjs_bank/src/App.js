@@ -29,7 +29,7 @@ import ReactDOM from 'react-dom';
 
 const name = "Learner";
  
-const element = <h1>Hello, { name }. Build Bank Application to Learn ReactJS.</h1>;
+const element = <div><h1 className = "hello">Hello Geek</h1><h2 data-sampleAttribute="sample">Custom attribute</h2></div>;
 
 class App extends Component {
   render() {

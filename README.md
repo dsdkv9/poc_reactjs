@@ -1,7 +1,8 @@
 # poc_reactjs
 poc_reactjs
 https://www.w3schools.com/react/react_getstarted.asp
-https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm
+https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm - In Progress
+  
 
 Reactjs env setup: 
 - Install latest version of: nvm, node, npm
